@@ -1,0 +1,16 @@
+{
+  "student": "Raghad Aljiban",
+  "classes": [
+    "basketball",
+    "biking",
+    "diving"
+  ],
+  "label_map": {
+    "basketball": 0,
+    "biking": 1,
+    "diving": 2
+  },
+  "sequence_len": 8,
+  "img_size": 112,
+  "test_accuracy": 0.9775
+}
